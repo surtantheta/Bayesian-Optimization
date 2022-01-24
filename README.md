@@ -1,6 +1,6 @@
 # Bayesian-Optimization
 Bayesian Optimization on Sign Language Digits Dataset.
-In this repo, we apply bayesian optimization on:
+In this repo, we apply bayesian optimization on the following hyperparameters of a deep CNN:
 <ol>
   <li> Learning rate </li>
   <li> Activation function </li>
